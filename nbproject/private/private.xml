@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/ProjetMessage/index.php</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/views/accueil.php</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/public/JScripts/messenger.js</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/controlers/lastActionUser.php</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/controlers/closeSession.php</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/controlers/connexion.php</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/public/JScripts/connexion.js</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/views/connexion.php</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/public/css/messagerie.css</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/public/css/popin.css</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/views/getUserConnect.php</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/models/user.class.php</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/views/creatUser.php</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/controlers/insertUser.php</file>
+            <file>file:/C:/wamp64/www/ProjetMessage/controlers/connexUser.php</file>
+        </group>
+    </open-files>
+</project-private>

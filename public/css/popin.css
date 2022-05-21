@@ -1,0 +1,25 @@
+.popin{background-color: rgba(0,0,0,0.5);
+    height: 100%;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    position: fixed;
+}
+.popin .content{position: absolute;
+    width: 300px;
+    height: 400px;
+    border: 3px solid #000;
+    border-radius: 20px;
+    background-color: #fff;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    top: 50%;}
+
+.header{width: 100%;height:50px;border-bottom: 1px solid #666;box-shadow: 2px 2px 0px 0px rgba(0,0,0,0.5);}
+.header ul{display: flex}
+.header ul li{display: block;width: 100px;color:white;padding: 15px;text-align: center;margin:0px 15px;
+cursor: pointer;}
+.header ul li#connexion{background-color: blue}
+.header ul li#creatUser{background-color: green}
+.header ul li#deconnexion{background-color: red}
+.header ul#disconect{display:none}

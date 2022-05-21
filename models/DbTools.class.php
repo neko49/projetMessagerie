@@ -9,7 +9,7 @@
 /**
  * Class de connexion à la base de données 
  *
- * @author Olivier Pourvellarie
+ * @author FASSINOU
  */
 class dbTools
 {
